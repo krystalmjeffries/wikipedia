@@ -1,0 +1,24 @@
+.greencolumn{
+  background-color: #f5fffa;
+  border: 1px solid #a3bfb1;
+}
+
+.bluecolumn{
+  background-color: #f5faff;
+  border: 1px solid #a7d7f9;
+}
+
+.darkgreencolumn{
+  background-color: #cef2e0;
+  border: 1px solid #cef2e0;
+}
+
+.darkbluecolumn{
+  background-color: #cedff2;
+  border: 1px solid #cedff2;
+}
+
+.bronco{
+  width: 50px;
+  height: 50px;
+}
